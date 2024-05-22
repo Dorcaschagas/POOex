@@ -1,0 +1,14 @@
+C:\Users\Dorcas Chagas\Desktop\POOex\carros\obj\Debug\net8.0\carros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dorcas Chagas\Desktop\POOex\carros\obj\Debug\net8.0\carros.AssemblyInfoInputs.cache
+C:\Users\Dorcas Chagas\Desktop\POOex\carros\obj\Debug\net8.0\carros.AssemblyInfo.cs
+C:\Users\Dorcas Chagas\Desktop\POOex\carros\obj\Debug\net8.0\carros.csproj.CoreCompileInputs.cache
+C:\Users\Dorcas Chagas\Desktop\POOex\carros\bin\Debug\net8.0\carros.exe
+C:\Users\Dorcas Chagas\Desktop\POOex\carros\bin\Debug\net8.0\carros.deps.json
+C:\Users\Dorcas Chagas\Desktop\POOex\carros\bin\Debug\net8.0\carros.runtimeconfig.json
+C:\Users\Dorcas Chagas\Desktop\POOex\carros\bin\Debug\net8.0\carros.dll
+C:\Users\Dorcas Chagas\Desktop\POOex\carros\bin\Debug\net8.0\carros.pdb
+C:\Users\Dorcas Chagas\Desktop\POOex\carros\obj\Debug\net8.0\carros.dll
+C:\Users\Dorcas Chagas\Desktop\POOex\carros\obj\Debug\net8.0\refint\carros.dll
+C:\Users\Dorcas Chagas\Desktop\POOex\carros\obj\Debug\net8.0\carros.pdb
+C:\Users\Dorcas Chagas\Desktop\POOex\carros\obj\Debug\net8.0\carros.genruntimeconfig.cache
+C:\Users\Dorcas Chagas\Desktop\POOex\carros\obj\Debug\net8.0\ref\carros.dll
